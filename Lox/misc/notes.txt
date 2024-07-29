@@ -1,0 +1,3 @@
+- System.exit(65) on error in runFile(), but in the interactive runPrompt() we dont want to kill the program off a user mistake, we let them try again in the infinite loop
+
+- 
